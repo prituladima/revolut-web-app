@@ -1,0 +1,7 @@
+INSERT INTO AccountHolder(id, name, balance) VALUES (nextval('hibernate_sequence'), 'George Clooney', 100000)
+INSERT INTO AccountHolder(id, name, balance) VALUES (nextval('hibernate_sequence'), 'Dustin Hoffman', 20000)
+INSERT INTO AccountHolder(id, name, balance) VALUES (nextval('hibernate_sequence'), 'Tom Cruise', 1000)
+INSERT INTO AccountHolder(id, name, balance) VALUES (nextval('hibernate_sequence'), 'Johnny Depp', 20000)
+INSERT INTO AccountHolder(id, name, balance) VALUES (nextval('hibernate_sequence'), 'Tom Hanks', 1000)
+INSERT INTO AccountHolder(id, name, balance) VALUES (nextval('hibernate_sequence'), 'Leonardo DiCaprio', 250000)
+INSERT INTO AccountHolder(id, name, balance) VALUES (nextval('hibernate_sequence'), 'Sylvester Stallone', 10000)
